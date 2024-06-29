@@ -1,0 +1,13 @@
+{
+    "mainTitle": "Juegos",
+    "title": "Videojuegos jugando actualmente:",
+    "question": "¿Qué juego estás jugando?",
+    "total": "Total : ",
+    "all": "Todos",
+    "stop": "Detenidos",
+    "playing": "Jugando",
+    "delete": "Eliminar detenidos",
+    "template": "Template creado por Sindre Sorhus",
+    "made": "Creado por ti",
+    "part": "Parte de TodoMVC"
+}

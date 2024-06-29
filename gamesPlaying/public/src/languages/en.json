@@ -1,0 +1,13 @@
+{
+    "mainTitle": "Games",
+    "title": "Video games currently playing:",
+    "question": "¿What game are you playing?",
+    "total": "Total : ",
+    "all": "All",
+    "stop": "Stop",
+    "playing": "Playing",
+    "delete": "Delete stopped",
+    "template": "Template made by Sindre Sorhus",
+    "made": "Created by you",
+    "part": "Part of TodoMVC"
+}
