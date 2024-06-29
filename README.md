@@ -6,7 +6,7 @@ Application using vanilla JavaScript to keep track of games you are currently pl
 You can checkout the project here: "https://currentlygaming.segurab.com/"
 
 
-![App Screenshot](https://res.cloudinary.com/imgresd/image/upload/v1718425721/Github/rkrqsaewxwfa5qyhfnyn.png)
+![App Screenshot](https://res.cloudinary.com/imgresd/image/upload/v1719632868/Github/dr55kewpgpfutlhuhpzw.png)
 
 ## Feedback
 
